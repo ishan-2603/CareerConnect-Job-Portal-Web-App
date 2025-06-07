@@ -27,3 +27,42 @@ CareerConnect is a full-stack job portal application built using the **MERN stac
 | **Bootstrap / Tailwind** | UI Styling (based on tutorial) |
 
 ---
+
+## 📷 Screenshots
+
+
+### 🔹 Home Page
+![Home](./screenshots/Home.png)
+![Home](./screenshots/Home2.png)
+
+### 🔹 Login Page
+![Login](./screenshots/Home.png)
+
+### 🔹 SignUp Page
+![SignUp](./screenshots/SignUp.png)
+
+### 🔹 Profile Page
+![Profile](./screenshots/Profile.png)
+
+### 🔹 Job Listings
+![Job Listings](./screenshots/Job.png)
+
+### 🔹 Recruiter Dashboard
+![Recruiter Dashboard](./screenshots/Company.png)
+
+### 🔹 New Company
+![New Company](./screenshots/Company2.png)
+![New Company](./screenshots/Company3.png)
+
+### 🔹 Applicant Dashboard
+![Applicant Dashboard](./screenshots/applicant.png)
+![Applicant Dashboard](./screenshots/applicant2.png)
+
+### 🔹 New Job
+![New Job](./screenshots/Job2.png)
+![New Job](./screenshots/Job3.png)
+
+### 🔹 Browse Sections
+![Browse](./screenshots/Browse.png)
+
+
