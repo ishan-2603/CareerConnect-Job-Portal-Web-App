@@ -66,3 +66,13 @@ CareerConnect is a full-stack job portal application built using the **MERN stac
 ![Browse](./screenshots/Browse.png)
 
 
+## 📌 Future Enhancements
+
+- 💳 Payment integration for premium job listings
+- 🔎 Search and filter by category, location, or company
+- 📩 Email notifications on job application
+- 📊 Admin analytics dashboard for job metrics
+
+
+
+
